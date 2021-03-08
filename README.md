@@ -26,6 +26,7 @@ You will be building a simple webpage "My Car Garage" which contains all of the 
 - As a user, I would like to be able to add new cars so I can track the cars I have in my garage. 
     - Create a form in order to add the **cars name** and **model category** and **model year**. 
     - The category should have a predefined list that contains the following categories: 
+
         - BMW
         - Lexus
         - Toyota
@@ -33,7 +34,6 @@ You will be building a simple webpage "My Car Garage" which contains all of the 
         - Chevrolet
         - Hyundai
         - KIA
-
 - As a user, I would like to view all of my cars that I already added so that I can quickly view my cars in my garage. - Whenever you add a car using the form, you should use the local storage in order to get all the cars from it and render them  using DOM.
 
 - As a user, I would like to see along side the car information, the cars model image. The model images can be found in the folder directory img.
